@@ -1,0 +1,19 @@
+# === Python Caches ===
+__pycache__/
+*.py[cod]
+
+# === Pipeline Output & Archives ===
+archive/
+archive_old/
+random\ files/
+
+# === Heavy Data & Databases ===
+*.npz
+*.db
+
+# === Logs ===
+*.log
+*.txt
+
+# === Plots & Images ===
+*.png
